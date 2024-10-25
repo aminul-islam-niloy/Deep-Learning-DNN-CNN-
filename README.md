@@ -29,7 +29,7 @@ This notebook demonstrates a Deep Neural Network (DNN) approach for polynomial r
 
 ## Requirements
 
-Both notebooks require Python and the following packages:
+notebooks require Python and the following packages:
 - TensorFlow
 - Keras
 - Numpy
@@ -44,7 +44,7 @@ pip install tensorflow keras numpy matplotlib
 
 Clone this repository and navigate to the project directory:
 ```bash
-git clone https://github.com/yourusername/neural-network-projects.git
+git clone https://github.com/aminul-islam-niloy/Deep-Learning-DNN-CNN-
 cd neural-network-projects
 ```
 
